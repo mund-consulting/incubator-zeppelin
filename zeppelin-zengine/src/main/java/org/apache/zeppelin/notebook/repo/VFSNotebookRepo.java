@@ -67,8 +67,11 @@ public class VFSNotebookRepo implements NotebookRepo {
 
     if (filesystemRoot.getScheme() == null) { // it is local path
       try {
-        this.filesystemRoot = new URI(new File(
-            conf.getRelativeDir(filesystemRoot.getPath())).getAbsolutePath());
+        String filePath = new File(
+            conf.getRelativeDir(filesystemRoot.getPath())).getAbsolutePath()
+            .replaceAll("\\\\", "/");
+        this.filesystemRoot = new URI(filePath);
+
       } catch (URISyntaxException e) {
         throw new IOException(e);
       }
