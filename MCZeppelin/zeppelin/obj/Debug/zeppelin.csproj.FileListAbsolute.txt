@@ -1,0 +1,9 @@
+C:\Users\mcuser\documents\visual studio 2015\Projects\MCZeppelin\zeppelin\bin\Debug\zeppelin.exe.config
+C:\Users\mcuser\documents\visual studio 2015\Projects\MCZeppelin\zeppelin\bin\Debug\zeppelin.exe
+C:\Users\mcuser\documents\visual studio 2015\Projects\MCZeppelin\zeppelin\bin\Debug\zeppelin.pdb
+C:\Users\mcuser\documents\visual studio 2015\Projects\MCZeppelin\zeppelin\obj\Debug\zeppelin.exe
+C:\Users\mcuser\documents\visual studio 2015\Projects\MCZeppelin\zeppelin\obj\Debug\zeppelin.pdb
+C:\Users\mcuser\documents\visual studio 2015\Projects\MCZeppelin\zeppelin\obj\Debug\zeppelin.csprojResolveAssemblyReference.cache
+D:\MCZeppelin\zeppelin\bin\Debug\zeppelin.exe.config
+D:\MCZeppelin\zeppelin\obj\Debug\zeppelin.exe
+D:\MCZeppelin\zeppelin\obj\Debug\zeppelin.pdb

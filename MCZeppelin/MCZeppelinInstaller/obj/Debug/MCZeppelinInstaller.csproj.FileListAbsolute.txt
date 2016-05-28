@@ -1,0 +1,10 @@
+C:\Users\mcuser\documents\visual studio 2015\Projects\MCZeppelin\MCZeppelinInstaller\obj\Debug\MCZeppelinInstaller.csprojResolveAssemblyReference.cache
+C:\Users\mcuser\Documents\Visual Studio 2015\Projects\MCZeppelin\MCZeppelinInstaller\bin\Debug\sparklet.dll
+C:\Users\mcuser\Documents\Visual Studio 2015\Projects\MCZeppelin\MCZeppelinInstaller\bin\Debug\sparklet.pdb
+C:\Users\mcuser\Documents\Visual Studio 2015\Projects\MCZeppelin\MCZeppelinInstaller\obj\Debug\sparklet.dll
+C:\Users\mcuser\Documents\Visual Studio 2015\Projects\MCZeppelin\MCZeppelinInstaller\obj\Debug\sparklet.pdb
+D:\MCZeppelin\MCZeppelinInstaller\bin\Debug\sparklet.dll
+D:\MCZeppelin\MCZeppelinInstaller\bin\Debug\sparklet.pdb
+D:\MCZeppelin\MCZeppelinInstaller\obj\Debug\MCZeppelinInstaller.csprojResolveAssemblyReference.cache
+D:\MCZeppelin\MCZeppelinInstaller\obj\Debug\sparklet.dll
+D:\MCZeppelin\MCZeppelinInstaller\obj\Debug\sparklet.pdb

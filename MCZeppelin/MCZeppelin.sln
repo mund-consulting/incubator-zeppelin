@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MCZeppelin", "MCZeppelin\MCZeppelin.vdproj", "{3C14CBA1-3ACA-4527-93C3-46A363AA31D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCZeppelinInstaller", "MCZeppelinInstaller\MCZeppelinInstaller.csproj", "{015B182F-F41B-476A-BD77-02086FC00946}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zeppelin", "zeppelin\zeppelin.csproj", "{64471D2C-911F-43F7-9889-5DDD3BAB30D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C14CBA1-3ACA-4527-93C3-46A363AA31D0}.Debug|Any CPU.ActiveCfg = Debug
+		{3C14CBA1-3ACA-4527-93C3-46A363AA31D0}.Debug|Any CPU.Build.0 = Debug
+		{3C14CBA1-3ACA-4527-93C3-46A363AA31D0}.Release|Any CPU.ActiveCfg = Release
+		{3C14CBA1-3ACA-4527-93C3-46A363AA31D0}.Release|Any CPU.Build.0 = Release
+		{015B182F-F41B-476A-BD77-02086FC00946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015B182F-F41B-476A-BD77-02086FC00946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015B182F-F41B-476A-BD77-02086FC00946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015B182F-F41B-476A-BD77-02086FC00946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64471D2C-911F-43F7-9889-5DDD3BAB30D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64471D2C-911F-43F7-9889-5DDD3BAB30D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64471D2C-911F-43F7-9889-5DDD3BAB30D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64471D2C-911F-43F7-9889-5DDD3BAB30D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
